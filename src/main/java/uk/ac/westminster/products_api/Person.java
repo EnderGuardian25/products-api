@@ -9,7 +9,7 @@ package uk.ac.westminster.products_api;
  *   - a full constructor
  *   - a getter and setter for "name"
  *
- * TODO (Lab Activity 3):
+ * DONE (Lab Activity 3):
  *   Add a new private String field called "email", following the
  *   JavaBean convention: provide a getter called getEmail().
  */
@@ -37,6 +37,6 @@ public class Person {
         return email;
     }
 
-    // TODO (Activity 3): add the "email" field and its getter here.
+    // DONE (Activity 3): add the "email" field and its getter here.
 
 }
